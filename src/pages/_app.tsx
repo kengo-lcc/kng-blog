@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <header className="border-b border-gray-300 py-8">
         <Link href="/">
           <a className="text-5xl font-bold">
-            <h1>テストブログですー</h1>
+            <h1>microCMSテストブログ</h1>
           </a>
         </Link>
       </header>
